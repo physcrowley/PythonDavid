@@ -1,2 +1,2 @@
 language = "python3"
-run = "python projet2/projet2.py"
+run = "python pgz_test/pgz_test.py"
